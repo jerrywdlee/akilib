@@ -15,6 +15,7 @@ AKI_I2C_HDC1000
 
 How to use 使い方
 -----------------------------------------------
+sudo apt-get install i2c-tools python-smbus
 
 ::
 
